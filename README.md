@@ -1,4 +1,4 @@
-# Ahiraj's Resume
+# RESUME
 
 This repository hosts the latest version of my public resume.
 
