@@ -9,5 +9,5 @@ This repository hosts the latest version of my public resume.
 
 🔗 **Connect with Me**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahiraj-k/)  
-- 🌐 [Portfolio Website](https://ahiraj-k.github.io/](https://ahiraj.vercel.app/)
+- 🌐 [Portfolio Website](https://ahiraj.vercel.app/))
 
