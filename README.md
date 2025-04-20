@@ -3,7 +3,7 @@
 This repository hosts the latest version of my public resume.
 
 📄 **View or Download Resume**:  
-[ahiraj-resume.pdf](https://ahiraj-k.github.io/resume/ahiraj-resume.pdf)
+[ahiraj-resume.pdf](https://ahiraj-k.github.io/resume/Ahiraj-Resume.pdf)
 
 ---
 
